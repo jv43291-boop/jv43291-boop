@@ -1,4 +1,4 @@
-<h1 align="center">Olá, eu sou o João Victor Magalhães 👋</h1>
+<h1 align="center">Olá, eu sou o João Victor Pinheiro Magalhães 👋</h1>
 
 <p align="center">
   Desenvolvedor <strong>full stack</strong> em Manaus — crio sistemas web sob medida para empresas e negócios locais.
